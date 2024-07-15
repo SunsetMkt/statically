@@ -4,7 +4,7 @@
   "version": "2.0.0",
   "author": "Frans Allen",
   "dependencies": {
-    "gatsby": "2.24.47",
+    "gatsby": "4.25.7",
     "gatsby-plugin-manifest": "2.4.23",
     "gatsby-plugin-netlify-cache": "^1.2.0",
     "gatsby-plugin-offline": "3.2.23",
@@ -15,7 +15,7 @@
     "gatsby-plugin-sitemap": "^2.2.26",
     "gatsby-plugin-umami": "0.1.2",
     "gatsby-source-filesystem": "^2.2.2",
-    "gatsby-transformer-remark": "^2.7.1",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-yaml": "^2.3.1",
     "graphql": "15.3.0",
     "prop-types": "15.7.2",
